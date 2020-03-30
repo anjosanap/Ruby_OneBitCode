@@ -1,0 +1,1 @@
+Ruby course in just 10 practical and simple classes, to develop your Ruby project at the end of the course.
